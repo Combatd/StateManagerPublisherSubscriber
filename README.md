@@ -15,7 +15,7 @@ The state is supposed to be immutable, or not changed from original attribute va
 # License Information
 ```
     State Manager - A demonstration of the publisher-subscriber design pattern in JavaScript
-    Copyright (C) 2021  Mark Calvelo
+    Copyright (C) 2021 Mark Calvelo
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
